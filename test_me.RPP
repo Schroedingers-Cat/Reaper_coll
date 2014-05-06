@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-<REAPER_PROJECT 0.1 "4.611/x64" 1399406281
-  UNDO_FTS 1399406281
-=======
-<REAPER_PROJECT 0.1 "4.611/OSX64" 1399406294
->>>>>>> 54a9017ce0fad0ec8494afa323a1cca3dc15c725
+<REAPER_PROJECT 0.1 "4.611/x64" 1399406588
+  UNDO_FTS 1399406588
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -17,7 +13,7 @@
   GRID 3199 8 1 8 1 0 0
   TIMEMODE 1 2 -1
   PANMODE 3
-  CURSOR 3
+  CURSOR 2.5
   ZOOM 100 0 0
   VZOOMEX 6
   USE_REC_CFG 0
@@ -98,7 +94,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 5089 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
@@ -150,7 +146,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 5089 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
@@ -186,11 +182,11 @@
         E 120 90 28 60
         E 840 80 12 00
         E 0 80 28 00
-        e 360 90 28 60
-        e 1500 80 28 00
+        E 360 90 28 60
+        E 1500 80 28 00
         E 0 90 17 60
-        E 480 90 2a 60
-        E 600 80 2a 00
+        e 480 90 2f 60
+        e 600 80 2f 00
         E 360 80 17 00
         E 540 b0 7b 00
         GUID {5DE59D17-ED11-4250-BBD6-5771CC2868F4}
@@ -201,7 +197,7 @@
         KEYSNAP 0 2 102034050607 0 Major
         TRACKSEL 250 0 0 ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.0625 0 4 1280 778 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.0625 0 4 1280 778 0 0 0 0 0 0 0 1 0 0.5 0 0 1 64
       >
     >
     <ITEM
