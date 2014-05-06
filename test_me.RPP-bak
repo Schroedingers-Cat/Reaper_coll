@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "4.611/OSX64" 1399405958
+<REAPER_PROJECT 0.1 "4.611/OSX64" 1399406591
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -12,7 +12,7 @@
   GRID 3199 8 1 8 1 0 0
   TIMEMODE 1 2 -1
   PANMODE 3
-  CURSOR 0.5
+  CURSOR 2
   ZOOM 100 0 0
   VZOOMEX 6
   USE_REC_CFG 0
@@ -105,7 +105,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 2
+      POSITION 6
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -113,7 +113,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {C4B361E0-913B-482F-A6B7-F4DCE95CC341}
       IID 1
       NAME "untitled MIDI item"
@@ -157,7 +157,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 2
+      POSITION 0.5
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -165,7 +165,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {1FE3733F-6CB0-4DF3-8178-44D5C93E64C6}
       IID 2
       NAME "untitled MIDI item"
@@ -177,12 +177,12 @@
       <SOURCE MIDI
         HASDATA 1 960 QN
         POOLEDEVTS {EA71A323-6A85-4046-9D1E-B7C68B75F5AC}
-        E 960 90 12 60
+        e 960 90 16 60
         E 120 90 28 60
-        E 840 80 12 00
+        e 840 80 16 00
         E 0 80 28 00
-        e 360 90 28 60
-        e 1500 80 28 00
+        E 360 90 28 60
+        E 1500 80 28 00
         E 0 90 17 60
         E 480 90 2a 60
         E 600 80 2a 00
@@ -192,7 +192,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 60
         VELLANE -1 100 0
-        CFGEDITVIEW 0 0.075347 61 12 0 0 0 0 0
+        CFGEDITVIEW -503.29651 0.079376 80 12 0 0 0 0 0
         KEYSNAP 0 2 102034050607 0 Major
         TRACKSEL 250 0 0 ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
