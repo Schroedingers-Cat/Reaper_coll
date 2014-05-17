@@ -15,6 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+.sparkleshare
 
 # External tool builders
 .externalToolBuilders/
